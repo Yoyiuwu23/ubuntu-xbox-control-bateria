@@ -1,4 +1,4 @@
-```markdown
+
 # Xbox Battery Tray Indicator for Ubuntu
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
