@@ -53,5 +53,10 @@ chmod +x main.py
 Puedes usar tu propio icono transparente (SVG o PNG) cambiando la ruta en el código.
 
 ---
+## Licencia
+
+Este proyecto está bajo la licencia GNU General Public License v3.0 o posterior. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
 
 **¡Disfruta monitoreando la batería de tu control Xbox directamente desde Ubuntu!**
