@@ -53,4 +53,3 @@ Puedes usar tu propio icono transparente (SVG o PNG) cambiando la ruta en el có
 ---
 
 **¡Disfruta monitoreando la batería de tu control Xbox directamente desde Ubuntu!**
-```
