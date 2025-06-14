@@ -3,6 +3,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Platform](https://img.shields.io/badge/Platform-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![GNU GPLv3](https://img.shields.io/badge/License-GNU%20GPLv3-blue)
+
 
 Monitor de batería para control de Xbox en la bandeja del sistema de Ubuntu, desarrollado en Python.
 
